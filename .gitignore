@@ -1,0 +1,6 @@
+*.apk
+*.aab
+*.exe
+*.zip
+.DS_Store
+*.log

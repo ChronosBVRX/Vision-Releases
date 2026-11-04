@@ -63,6 +63,7 @@ app.
 - [Política de privacidad](PRIVACY.md)
 - [Seguridad](SECURITY.md)
 - [Términos de uso](EULA.md)
+- [Avisos de terceros](THIRD_PARTY_NOTICES.md)
 
 ## Licencia
 

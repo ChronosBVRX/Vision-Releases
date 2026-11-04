@@ -1,5 +1,24 @@
 # Changelog
 
+## 2.6.1 — 2026-11-04
+
+- **Inicio en color y con más calidad**: sin filtro de saturación, menos zoom y banners en la
+  imagen máster de TMDB.
+- **Reproductor renovado**: play con degradado azul y píldoras/menús sin bordes, integrados al
+  video.
+- **Instalador ADB desde Vision-Releases**: descarga la app y Vision+ Home del canal nuevo.
+- **Foco del mando blindado** en el selector de perfiles.
+- Incluye el árbol de 2.6.0: 60 avatares, teclado en pantalla, capítulos vistos al 85 %,
+  calendario editorial y descargas portátiles.
+- Launcher 1.3.18, PC 0.5.0 y LG webOS 0.3.0.
+- Se instala encima de cualquier versión anterior; no se pierden datos.
+
+## 2.6.0 — 2026-11-04
+
+- Primera estable íntegra en `Vision-Releases`.
+- Perfiles con 60 personajes, teclado en pantalla y capítulos vistos al 85 %.
+- Calendario editorial y descargas portátiles USB con PIN.
+
 ## 2.5.247 — 2026-11-04
 
 - **Actualización obligatoria de migración.** Aviso de descontinuación con conteo de días.

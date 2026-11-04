@@ -1,8 +1,8 @@
 # Vision+
 
-> **Aviso de migración:** las versiones anteriores a **2.5.247** quedarán descontinuadas el
+> **Aviso de migración:** las versiones anteriores a **2.6.1** quedarán descontinuadas el
 > **9 de noviembre de 2026**. Actualiza a la última versión para seguir recibiendo
-> actualizaciones. La 2.5.247 es obligatoria y se instala encima sin perder datos.
+> actualizaciones. La 2.6.1 se instala encima sin perder datos.
 >
 > Descarga: [última versión](https://github.com/ChronosBVRX/Vision-Releases/releases/latest)
 
@@ -16,6 +16,8 @@ fuente, el backend y la documentación interna son privados.
 - **Última versión estable:** [Releases → Latest](https://github.com/ChronosBVRX/Vision-Releases/releases/latest)
 - **APK directo:** [VisionPlus.apk](https://github.com/ChronosBVRX/Vision-Releases/releases/latest/download/VisionPlus.apk)
 - **Launcher para TV:** [VisionPlusHome.apk](https://github.com/ChronosBVRX/Vision-Releases/releases/latest/download/VisionPlusHome.apk)
+- **PC portable:** [VisionPlusPC-Portable.exe](https://github.com/ChronosBVRX/Vision-Releases/releases/download/pc-latest/VisionPlusPC-Portable.exe)
+- **LG webOS:** [visionplus-webos_0.3.0_all.ipk](https://github.com/ChronosBVRX/Vision-Releases/releases/download/v2.6.1/visionplus-webos_0.3.0_all.ipk)
 
 ## Capturas
 

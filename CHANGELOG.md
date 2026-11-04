@@ -1,5 +1,13 @@
 # Changelog
 
+## 2.5.247 — 2026-11-04
+
+- **Actualización obligatoria de migración.** Aviso de descontinuación con conteo de días.
+- El diálogo de actualización no se puede cerrar hasta instalar la nueva versión.
+- OTA apuntando al canal público `Vision-Releases`.
+- Launcher 1.3.17.
+- Se instala encima de cualquier versión anterior con la misma firma; no se pierden datos.
+
 ## 2.5.246 — 2026-11-04
 
 - **Migración del canal de actualizaciones** al repositorio público `Vision-Releases`.

@@ -1,5 +1,11 @@
 # Vision+
 
+> **Aviso de migración:** las versiones anteriores a **2.5.247** quedarán descontinuadas el
+> **9 de noviembre de 2026**. Actualiza a la última versión para seguir recibiendo
+> actualizaciones. La 2.5.247 es obligatoria y se instala encima sin perder datos.
+>
+> Descarga: [última versión](https://github.com/ChronosBVRX/Vision-Releases/releases/latest)
+
 Canal oficial de distribución de **Vision+** para Android, Android TV y Google TV.
 
 Aquí solo se publican las **compilaciones firmadas** y el manifiesto de actualización. El código

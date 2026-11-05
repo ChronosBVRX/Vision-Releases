@@ -1,8 +1,8 @@
 # Vision+
 
-> **Aviso de migración:** las versiones anteriores a **2.6.1** quedarán descontinuadas el
+> **Aviso de migración:** las versiones anteriores a **2.6.3** quedarán descontinuadas el
 > **9 de noviembre de 2026**. Actualiza a la última versión para seguir recibiendo
-> actualizaciones. La 2.6.1 se instala encima sin perder datos.
+> actualizaciones. La 2.6.3 se instala encima sin perder datos.
 >
 > Descarga: [última versión](https://github.com/ChronosBVRX/Vision-Releases/releases/latest)
 

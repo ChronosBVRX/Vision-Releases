@@ -1,5 +1,14 @@
 # Changelog
 
+## 2.6.3 — 2026-11-05
+
+- Pulido visual del reproductor en TV: selector de capítulos y controles.
+- Versión de ajuste sobre 2.6.2; no cambia catálogo ni reproducción.
+
+## 2.6.2 — 2026-11-04
+
+- Estado usable en Inicio y TV; ajustes de estabilidad.
+
 ## 2.6.1 — 2026-11-04
 
 - **Inicio en color y con más calidad**: sin filtro de saturación, menos zoom y banners en la
